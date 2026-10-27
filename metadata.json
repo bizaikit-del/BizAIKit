@@ -1,0 +1,6 @@
+{
+  "name": "Bizaikit School Management System",
+  "description": "Production-ready, multilingual School Management System with real-time spreadsheet-style attendance and assessment tracking, role-based access control, and comprehensive reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
